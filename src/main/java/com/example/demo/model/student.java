@@ -14,12 +14,6 @@ public class student {
     private  String name;
     private  String email;
 
-    public student(){}
-
-    public student(String name,String email){
-        this.name=name;
-        this.email=email;
-    }
 
 
 
